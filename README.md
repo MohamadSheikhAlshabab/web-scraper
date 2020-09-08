@@ -25,3 +25,5 @@ Report function must be named get_citations_needed_report
 get_citations_needed_report takes in a url and returns a string
 the string should be formatted with each citation needed on own line, in order found.
 Module must be named scraper.py
+
+## PR [url](https://github.com/MohamadSheikhAlshabab/web-scraper/pull/1)
